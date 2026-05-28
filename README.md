@@ -156,7 +156,7 @@ Kanban, second brain.
 
 ### 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=1a1a3a)](https://www.linkedin.com/in/arwinkt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=1a1a3a)](https://www.linkedin.com/in/arwind-kalai-570b062b0/)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=8b7fcc&labelColor=1a1a3a)](https://github.com/arwinkt)
 
 *Building things that ship. Brisbane 🇦🇺*
