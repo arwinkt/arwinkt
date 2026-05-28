@@ -1,52 +1,122 @@
-# Hey, I'm Arwind
+<div align="center">
 
-Founder and builder. I work on AI agent systems, developer tooling, and automation.
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=220&section=header&text=Arwind&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20AI%20Agents%20%7C%20Builder&descAlignY=58&descSize=20&descColor=e2e8f0&animation=fadeIn)
 
-Currently building on top of **[Hermes Agent](https://hermes-agent.nousresearch.com)** — a personal agentic OS that runs multi-agent workflows, manages a second brain, and handles ops autonomously. I run a fleet of 12 Paperclip AI agents doing real work in production.
-
----
-
-## What I'm Working On
-
-**[Paperclip AI](https://github.com/paperclipai/paperclip)** — open-source AI agent orchestration (30k+ ⭐). I contribute to the platform and run it in production with a custom Hermes adapter stack on Windows.
-
-**AI tooling** — building agents, workflow skills, and automation that actually works. Not demos.
+</div>
 
 ---
 
-## Open Source
+<div align="center">
 
-### [hermes-skills-public](https://github.com/arwinkt/hermes-skills-public)
-9 battle-tested skills for Hermes Agent — built in production, not toy examples.
+### 22yo founder. Building AI agents that run in production.
+### Contributor to **[Paperclip AI](https://github.com/paperclipai/paperclip)** (30k+ ⭐). Brisbane 🇦🇺
 
-- **Debugging methodology** — 4-phase root cause investigation before any fix
-- **TDD enforcement** — strict RED-GREEN-REFACTOR with no exceptions
-- **Subagent development** — delegate_task with 2-stage spec + quality review
-- **Spike experiments** — throwaway proofs-of-concept before committing to a build
-- **Pre-commit code review** — static security scan + independent reviewer subagent
-- **Kanban orchestration** — multi-agent task decomposition and routing
-- **Obsidian second brain** — 22 slash commands for daily planning and PKM
-- **Paperclip AI on Windows** — setup, debugging, and restart guides for the real pain points
-
-### [qut-student-toolkit](https://github.com/arwinkt/qut-student-toolkit)
-Automate your university workflows when the official tools are locked down.
-
-- **Canvas CLI** — pull all course files, pages, and modules without an admin token (Playwright cookie auth)
-- **Outlook access** — read and send email via EWS + device code OAuth (Graph API is blocked on QUT's tenant — this is the workaround)
-- **Content scanner** — converts PDFs, slides, spreadsheets, diagrams, and images into searchable markdown notes your AI can read
+</div>
 
 ---
 
-## Stack
+<br/>
 
-Python · JavaScript · Node.js · Windows (Git Bash) · Hermes Agent · Paperclip AI · Playwright · PostgreSQL
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=arwinkt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&ring_color=6e40c9" />
+
+**What I'm working on:**
+
+🤖 &nbsp;Running 12 autonomous Paperclip AI agents in production  
+🛠 &nbsp;Building open-source tools for Hermes Agent  
+📚 &nbsp;Automating student life at QUT  
+🧠 &nbsp;Obsidian second brain wired to AI  
+
+<br/>
+
+**I build things that:**
+- Actually run in production, not just in demos
+- Fix real problems (admin-blocked APIs, broken tooling)
+- Get open-sourced once they work
+
+<br clear="right"/>
 
 ---
 
-## Writing / Thinking
+<div align="center">
 
-I document what I build and what actually breaks. If a skill or script is here, it's been tested in production, not just in a demo.
+### 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=arwinkt&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=06b6d4&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=64748b&currStreakNum=ffffff&sideNums=ffffff)
+
+</div>
 
 ---
 
-*Building in Brisbane, Australia.*
+<div align="center">
+
+### 🛠 Stack
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=a855f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=06b6d4)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=a855f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=06b6d4)
+![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=a855f7)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=06b6d4)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=a855f7)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=06b6d4)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📦 Open Source
+
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 hermes-skills-public</h3>
+      <p align="center">
+        Battle-tested skills for Hermes Agent — built in production.<br/><br/>
+        TDD enforcement · Systematic debugging · Subagent dev<br/>
+        Pre-commit code review · Spike experiments<br/>
+        Kanban orchestration · Obsidian second brain<br/>
+        Paperclip AI on Windows
+      </p>
+      <p align="center">
+        <a href="https://github.com/arwinkt/hermes-skills-public">
+          <img src="https://img.shields.io/badge/View_Repo-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎓 qut-student-toolkit</h3>
+      <p align="center">
+        Automate uni when the official tools are locked down.<br/><br/>
+        Canvas CLI via Playwright cookie auth<br/>
+        Outlook via EWS + device code OAuth<br/>
+        PDF · PPTX · DOCX → searchable markdown<br/>
+        Image analysis via Claude Vision
+      </p>
+      <p align="center">
+        <a href="https://github.com/arwinkt/qut-student-toolkit">
+          <img src="https://img.shields.io/badge/View_Repo-06b6d4?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arwinkt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6e40c9&height=120&section=footer)
+
+</div>
