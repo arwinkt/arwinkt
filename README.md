@@ -4,15 +4,6 @@
 
 </div>
 
-<div align="center">
-
-```
-Malaysia → Papua New Guinea → Brisbane
-    9 schools. 3 countries. 1 direction.
-```
-
-</div>
-
 <br/>
 
 <div align="center">
@@ -29,18 +20,17 @@ Malaysia → Papua New Guinea → Brisbane
 
 ### Who I am
 
-22 year old founder. Born in Malaysia, grew up in PNG,
-building in Brisbane. Went to 9 schools across 3 countries
-before university. Got here the hard way.
+22 year old founder building in Brisbane.
+Started from nothing, figured it out as I went.
 
-I run an e-commerce business, build AI agent infrastructure,
-and am designing a brain-inspired desktop app from scratch.
-Everything I build gets open-sourced once it works.
+I run a live e-commerce business powered by AI agents,
+building a brain-inspired desktop app from scratch,
+and ship everything open-source once it works.
 
 **2× Gold Medalist — APU Powerlifting** &nbsp;🏋️
 
-I believe in skills over credentials, risk over safety,
-and building things that actually ship.
+Skills over credentials. Risk over safety.
+Build first, explain later.
 
 <br/>
 <br/>
@@ -218,7 +208,7 @@ Kanban, second brain.
 
 <div align="center">
 
-*Malaysia → Papua New Guinea → Brisbane → everywhere else next*
+*Building things that ship. Brisbane 🇦🇺*
 
 </div>
 
