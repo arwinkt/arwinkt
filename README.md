@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=8B7FCC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Building+AI+agents+that+run+in+production;Founder+%7C+22+%7C+Brisbane+%F0%9F%87%A6%F0%9F%87%BA;Skills+over+credentials.+Always.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=8B7FCC&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Building+AI+agents+that+run+in+production;Founder+%7C+22+%7C+Brisbane+%F0%9F%87%A6%F0%9F%87%BA;Skills+over+credentials.+Always.)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,18 +21,20 @@
 ### Who I am
 
 22 year old founder building in Brisbane.
-Started from nothing, figured it out as I went.
 
-I run a live e-commerce business powered by AI agents,
-building a brain-inspired desktop app from scratch,
-and ship everything open-source once it works.
+Picked up coding to solve my own problems — built an
+e-commerce business, needed automation, taught myself
+what I needed as I went. Started with Python scripts,
+ended up running 12 AI agents in production.
 
-**2× Gold Medalist — APU Powerlifting** &nbsp;🏋️
+Now studying a **Diploma of IT → Bachelor of CS** at QUT
+while shipping real software on the side. The degree is
+the foundation. The agents are the ceiling.
 
-Skills over credentials. Risk over safety.
-Build first, explain later.
+**2× Gold Medalist — APU Federation Powerlifting** 🏋️
 
-<br/>
+Skills over credentials. Build first, explain later.
+
 <br/>
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinkt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=8b7fcc&text_color=c8d0e8&card_width=400" />
@@ -40,6 +42,21 @@ Build first, explain later.
 <br clear="right"/>
 
 ---
+
+<br/>
+
+<div align="center">
+
+```
+ ██████╗ ██████╗ ██████╗ ███████╗
+██╔════╝██╔═══██╗██╔══██╗██╔════╝
+██║     ██║   ██║██║  ██║█████╗
+██║     ██║   ██║██║  ██║██╔══╝
+╚██████╗╚██████╔╝██████╔╝███████╗
+ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+```
+
+</div>
 
 <br/>
 
@@ -53,7 +70,7 @@ Build first, explain later.
 
 Brain-inspired desktop app.
 9-region cognitive model.
-Built with Tauri + Three.js.
+Built on Tauri + Three.js.
 The actual second brain.
 
 `Tauri` `Three.js` `Rust`
@@ -66,7 +83,7 @@ The actual second brain.
 DTC health product business.
 12 autonomous AI agents
 running ops 24/7.
-Live in production.
+Live and profitable.
 
 `Shopify` `Meta Ads` `Python`
 
@@ -78,7 +95,7 @@ Live in production.
 Personal agentic OS.
 Multi-platform gateway,
 Obsidian second brain,
-crystalline ASCII UI.
+live agent dashboard.
 
 `Python` `Node.js` `Obsidian`
 
@@ -90,9 +107,9 @@ crystalline ASCII UI.
 **🎙️ AI Voice Agents**
 
 Voice agent business.
-Automating real workflows
+Real workflows automated
 with conversational AI.
-In development.
+Currently building.
 
 `LLMs` `Voice` `Automation`
 
@@ -104,7 +121,7 @@ In development.
 Bypassed admin-blocked APIs
 at my own university.
 Canvas + Outlook automated.
-Open-sourced it for everyone.
+Open-sourced for everyone.
 
 `Python` `Playwright` `EWS`
 
@@ -130,7 +147,21 @@ Kanban, second brain.
 
 <div align="center">
 
-### 🌌 Activity
+```
+ ___  ___  ________  ________  ________  ___  ________  ___  ___     
+|\  \|\  \|\   ____\|\   __  \|\   __  \|\  \|\   __  \|\  \|\  \    
+\ \  \ \  \ \  \___|\ \  \|\  \ \  \|\  \ \  \ \  \|\  \ \  \ \  \   
+ \ \  \ \  \ \  \    \ \  \\\  \ \  \\\  \ \  \ \  \\\  \ \  \ \  \  
+  \ \  \ \  \ \  \____\ \  \\\  \ \  \\\  \ \  \ \  \\\  \ \  \ \__\ 
+   \ \__\ \__\ \_______\ \_______\ \_______\ \__\ \_______\ \__\|__|  
+    \|__|\|__|\|_______|\|_______|\|_______|\|__|\|_______|\|__|  \/  
+```
+
+</div>
+
+<div align="center">
+
+### 🌌 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arwinkt&theme=tokyonight&hide_border=true&background=0a0a1a&ring=8b7fcc&fire=4a9eff&currStreakLabel=8b7fcc&sideLabels=8b9cc8&dates=4a5568&currStreakNum=e8e0ff&sideNums=c8d0e8&stroke=1a1a3a)
 
@@ -207,6 +238,12 @@ Kanban, second brain.
 <br/>
 
 <div align="center">
+
+```
+  ·  ·  ✦  ·  ·  ·  ✦  ·  ✦  ·  ·  ·  ✦  ·  ·
+·  ✦  ·  ·  ·  ✦  ·  ·  ·  ·  ✦  ·  ·  ·  ✦  ·
+  ·  ·  ·  ✦  ·  ·  ✦  ·  ·  ·  ·  ·  ✦  ·  ·
+```
 
 *Building things that ship. Brisbane 🇦🇺*
 
