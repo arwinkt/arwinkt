@@ -14,51 +14,19 @@
 
 ---
 
-<br/>
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=arwinkt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=8b7fcc&icon_color=4a9eff&text_color=c8d0e8&ring_color=4a3a8a&card_width=400" />
-
 ### Who I am
 
 22 year old founder building in Brisbane.
 
-Picked up coding to solve my own problems — built an
-e-commerce business, needed automation, taught myself
-what I needed as I went. Started with Python scripts,
-ended up running 12 AI agents in production.
+Picked up coding to solve my own problems — built an e-commerce business, needed automation, taught myself what I needed as I went. Started with Python scripts, ended up running 12 AI agents in production.
 
-Now studying a **Diploma of IT → Bachelor of CS** at QUT
-while shipping real software on the side. The degree is
-the foundation. The agents are the ceiling.
+Now studying a **Diploma of IT → Bachelor of CS** at QUT while shipping real software on the side. The degree is the foundation. The agents are the ceiling.
 
 **2× Gold Medalist — APU Federation Powerlifting** 🏋️
 
-Skills over credentials. Build first, explain later.
-
-<br/>
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwinkt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a1a&title_color=8b7fcc&text_color=c8d0e8&card_width=400" />
-
-<br clear="right"/>
+**Stack:** Python · JavaScript · Node.js · Rust · PostgreSQL · Playwright · Cloudflare · Tauri · Three.js · Shopify
 
 ---
-
-<br/>
-
-<div align="center">
-
-```
- ██████╗ ██████╗ ██████╗ ███████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║     ██║   ██║██║  ██║█████╗
-██║     ██║   ██║██║  ██║██╔══╝
-╚██████╗╚██████╔╝██████╔╝███████╗
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
-
-</div>
-
-<br/>
 
 ### What I've Built
 
@@ -143,60 +111,7 @@ Kanban, second brain.
 
 ---
 
-<br/>
-
-<div align="center">
-
-```
- ___  ___  ________  ________  ________  ___  ________  ___  ___     
-|\  \|\  \|\   ____\|\   __  \|\   __  \|\  \|\   __  \|\  \|\  \    
-\ \  \ \  \ \  \___|\ \  \|\  \ \  \|\  \ \  \ \  \|\  \ \  \ \  \   
- \ \  \ \  \ \  \    \ \  \\\  \ \  \\\  \ \  \ \  \\\  \ \  \ \  \  
-  \ \  \ \  \ \  \____\ \  \\\  \ \  \\\  \ \  \ \  \\\  \ \  \ \__\ 
-   \ \__\ \__\ \_______\ \_______\ \_______\ \__\ \_______\ \__\|__|  
-    \|__|\|__|\|_______|\|_______|\|_______|\|__|\|_______|\|__|  \/  
-```
-
-</div>
-
-<div align="center">
-
-### 🌌 Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=arwinkt&theme=tokyonight&hide_border=true&background=0a0a1a&ring=8b7fcc&fire=4a9eff&currStreakLabel=8b7fcc&sideLabels=8b9cc8&dates=4a5568&currStreakNum=e8e0ff&sideNums=c8d0e8&stroke=1a1a3a)
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-### 🛠 Stack
-
-![Python](https://img.shields.io/badge/Python-0a0a1a?style=for-the-badge&logo=python&logoColor=8b7fcc)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a1a?style=for-the-badge&logo=javascript&logoColor=4a9eff)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a1a?style=for-the-badge&logo=node.js&logoColor=8b7fcc)
-![Rust](https://img.shields.io/badge/Rust-0a0a1a?style=for-the-badge&logo=rust&logoColor=4a9eff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a1a?style=for-the-badge&logo=postgresql&logoColor=8b7fcc)
-![Playwright](https://img.shields.io/badge/Playwright-0a0a1a?style=for-the-badge&logo=playwright&logoColor=4a9eff)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0a0a1a?style=for-the-badge&logo=cloudflare&logoColor=8b7fcc)
-![Tauri](https://img.shields.io/badge/Tauri-0a0a1a?style=for-the-badge&logo=tauri&logoColor=4a9eff)
-![Three.js](https://img.shields.io/badge/Three.js-0a0a1a?style=for-the-badge&logo=three.js&logoColor=8b7fcc)
-![Shopify](https://img.shields.io/badge/Shopify-0a0a1a?style=for-the-badge&logo=shopify&logoColor=4a9eff)
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
 ### 📡 Open Source
-
-</div>
 
 <table align="center">
   <tr>
@@ -235,15 +150,14 @@ Kanban, second brain.
   </tr>
 </table>
 
-<br/>
+---
 
 <div align="center">
 
-```
-  ·  ·  ✦  ·  ·  ·  ✦  ·  ✦  ·  ·  ·  ✦  ·  ·
-·  ✦  ·  ·  ·  ✦  ·  ·  ·  ·  ✦  ·  ·  ·  ✦  ·
-  ·  ·  ·  ✦  ·  ·  ✦  ·  ·  ·  ·  ·  ✦  ·  ·
-```
+### 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a1a?style=for-the-badge&logo=linkedin&logoColor=4a9eff&labelColor=1a1a3a)](https://www.linkedin.com/in/arwinkt/)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=8b7fcc&labelColor=1a1a3a)](https://github.com/arwinkt)
 
 *Building things that ship. Brisbane 🇦🇺*
 
