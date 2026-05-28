@@ -1,4 +1,4 @@
-# Hey, I'm Arwin
+# Hey, I'm Arwind
 
 Founder and builder. I work on AI agent systems, developer tooling, and automation.
 
